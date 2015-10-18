@@ -201,7 +201,7 @@ pre {
 .site-title a:hover,
 .site-title a:active {
     color: #90D4C5;
-    opacity: 1;
+    opacity: 0.8;
 }
 .site-title div { display: inline; }
 .site-tagline {
