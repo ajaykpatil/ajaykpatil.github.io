@@ -200,7 +200,7 @@ pre {
 .site-title a:visited { color: #90D4C5; }
 .site-title a:hover,
 .site-title a:active {
-    color: #90D4C5;
+    color: #333333;
     opacity: 0.8;
 }
 .site-title div { display: inline; }
