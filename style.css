@@ -186,7 +186,7 @@ pre {
 .site-title {
     font-family: 'Righteous',helvetica,sans-serif;
     font-size: 50px;
-    color: #333333;
+    color: #2c2c2c;
     line-height: 1.5em;
     position: relative;
     z-index: 12;
@@ -197,7 +197,7 @@ pre {
     position: fixed;
 }
 .site-title a,
-.site-title a:visited { color: #333333; }
+.site-title a:visited { color: #2c2c2c; }
 .site-title a:hover,
 .site-title a:active {
     color: #90D4C5;
@@ -216,9 +216,9 @@ pre {
     width: 90%;
 }
 .site-tagline a,
-.site-tagline a:visited { color: #90D4C5; }
+.site-tagline a:visited { color: #2c2c2c; }
 .site-tagline a:hover {
-    color: #2c2c2c;
+    color: #90D4C5;
 }
 /*=================================*/
 /* Language Styles
