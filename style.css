@@ -216,7 +216,7 @@ pre {
     width: 90%;
 }
 .site-tagline a,
-.site-tagline a:visited { color: #90D4C5; }
+.site-tagline a:visited { color: #333; }
 .site-tagline a:hover {
     color: #2c2c2c;
 }
