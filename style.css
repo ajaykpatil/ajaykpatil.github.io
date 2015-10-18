@@ -197,7 +197,7 @@ pre {
     position: fixed;
 }
 .site-title a,
-.site-title a:visited { color: #90D4C5; }
+.site-title a:visited { color: #333333; }
 .site-title a:hover,
 .site-title a:active {
     color: #333333;
