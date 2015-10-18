@@ -982,9 +982,8 @@ nav[role="navigation"] {
 .site-footer {
     color: #2c2c2c;
     font-family: 'quicksand', Arial, sans-serif;
-    font-weight: bold;
 }
-.site-footer p { margin: 0; font-size: 16px;display: inline;}
+.site-footer p { margin: 0; font-size: 14px;display: inline; font-weight: bold;}
 .site-footer a,
 .site-footer a:visited { color: #2c2c2c; }
 .site-footer a:hover { color: #90D4C5; } 
